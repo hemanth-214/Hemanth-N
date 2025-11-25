@@ -1,0 +1,17 @@
+{
+  "name": "Hemanth Raju N Portfolio",
+  "short_name": "Hemanth N",
+  "description": "Portfolio of Hemanth Raju N - AI & Data Science Engineer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1729",
+  "theme_color": "#0ea5ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
